@@ -4,7 +4,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-samina--attar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/samina-attarwala-6691b6212)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samina%20Attarwala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samina-attarwala-6691b6212)
 [![Email](https://img.shields.io/badge/Email-attarwalasamina1212%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:attarwalasamina1212@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-saminanamliwala-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saminanamliwala)
 
