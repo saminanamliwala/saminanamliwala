@@ -95,7 +95,7 @@ I'm a **Design Verification Engineer** with **5+ years** of experience building 
 
 ---
 
-### 🔌 Protocol Verification — AXI3 & SPI *(Industry Projects)*
+### 🔌 Protocol Verification — AXI3 & SPI 
 
 > UVM environments for AXI3 and SPI protocol verification
 
