@@ -121,7 +121,6 @@ I'm a **Design Verification Engineer** with **5+ years** of experience building 
 |-------|-------------|------|
 | 🥇 Employee of the Quarter | Alpha Numero Technology Solutions | July 2023 |
 | 🥈 Employee of the Month | Alpha Numero Technology Solutions | Nov 2022 |
-| ✅ Selected — Verification Engineer | Eximus (Wipro) | — |
 
 ---
 
