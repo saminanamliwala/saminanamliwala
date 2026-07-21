@@ -4,8 +4,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-samina--attar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samina-attar)
-[![Email](https://img.shields.io/badge/Email-samina121298%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samina121298@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-samina--attar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/samina-attarwala-6691b6212)
+[![Email](https://img.shields.io/badge/Email-attarwalasamina1212%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:attarwalasamina1212@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-saminanamliwala-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saminanamliwala)
 
 </div>
@@ -67,7 +67,7 @@ I'm a **Design Verification Engineer** with **5+ years** of experience building 
 
 ---
 
-### 🛩️ Remote Electronic Unit (Avionics REU) *(Industry Project)*
+### 🛩️ Avionics *(Industry Project)*
 
 > System-level FPGA verification for an avionics Remote Electronic Unit
 
@@ -81,7 +81,7 @@ I'm a **Design Verification Engineer** with **5+ years** of experience building 
 
 ---
 
-### 🎯 Positional Sensors — VDT & Resolver *(Industry Project)*
+### 🎯 Positional Sensors *(Industry Project)*
 
 > Verification of fixed-point arithmetic for avionics sensor interface designs
 
