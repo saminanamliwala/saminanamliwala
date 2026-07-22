@@ -104,17 +104,6 @@ I'm a **Design Verification Engineer** with **5+ years** of experience building 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=saminanamliwala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saminanamliwala&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🏆 Achievements
 
 | Award | Organization | Year |
